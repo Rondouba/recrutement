@@ -1,0 +1,9 @@
+{
+  "development": {
+    "user_conn": "mongodb://127.0.0.1:27017/khideme_mongodb",
+    "company_conn": "mongodb://127.0.0.1:27017/khideme_mongodb",
+    "application_conn": "mongodb://127.0.0.1:27017/khideme_mongodb",
+    "review_conn": "mongodb://127.0.0.1:27017/khideme_mongodb",
+    "kafka_host": "127.0.0.1:9092"
+  }
+}

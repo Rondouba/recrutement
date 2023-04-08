@@ -1,0 +1,21 @@
+{
+    "development": {
+        "database_host": "127.0.0.1",
+        "database_user": "root",
+        "database_password": "",
+        "database_name": "khideme_sql",
+        "auth_url": "http://auth:3000",
+        "s3_access_key": "AKIAVEYWO6SSQC5AZUOE",
+        "s3_secret_key": "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",
+        "s3_region": "us-east-1",
+        "s3_bucket_name": "date_center",
+        "redis_host": "127.0.0.1",
+        "redis_pass": ""
+    },
+    "test": {
+        "database_host": "127.0.0.1",
+        "database_user": "root",
+        "database_password": "",
+        "database_name": "khideme_sql"
+    }
+}

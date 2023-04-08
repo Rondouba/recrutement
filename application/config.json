@@ -1,0 +1,16 @@
+{
+  "development": {
+    "database_conn": "mongodb://127.0.0.1:27017/khideme_mongodb",
+    "auth_url": "http://auth:3000",
+    "company_url": "http://company:3000",
+    "kafka_host": "127.0.0.1:9092",
+    "redis_host": "127.0.0.1",
+    "redis_pass": "",
+    "user_url": "http://user:3000"
+  },
+  "test": { 
+    "database_conn": "mongodb://127.0.0.1:27017/khideme_mongodb",
+    "auth_url": "http://127.0.0.1:7000",
+    "kafka_host": "127.0.0.1:9092"
+  }
+}

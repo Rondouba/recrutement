@@ -1,0 +1,33 @@
+.application-card{
+    min-width: 275px;
+    margin-top: 20px;
+}
+.application-card-container{
+    display: flex;
+    justify-content: space-between;
+}
+.application-card-left{
+    display: flex;
+}
+.application-card-icon{
+    display: flex;
+    flex-direction: column;
+}
+.application-card-info{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    margin-top: -15px;
+}
+.application-card-title{
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.application-card-right{
+    display: flex;
+    flex-direction: column;
+}
+.application-card-status-label{
+    font-weight: bolder;
+}
